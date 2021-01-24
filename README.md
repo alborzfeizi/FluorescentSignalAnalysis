@@ -6,3 +6,9 @@ This MATLAB app analyzes folders containing color channels as d0, d1, d2, d3...
 
 ![](Screenshot/Screenshot1.png)
 ![](Screenshot/Screenshot2.png)
+
+feature list
+- [x] add multiple folders
+- [x] individual as well as total histogram mean and percentile intensity
+- [x] endpoints in one scatterplot
+- [ ] button for saving the table
