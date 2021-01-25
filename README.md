@@ -11,4 +11,4 @@ feature list
 - [x] add multiple folders
 - [x] individual as well as total histogram mean and percentile intensity
 - [x] endpoints in one scatterplot
-- [ ] button for saving the table
+- [x] button for saving the table
