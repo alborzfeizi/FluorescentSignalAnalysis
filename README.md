@@ -12,3 +12,5 @@ feature list
 - [x] individual as well as total histogram mean and percentile intensity
 - [x] endpoints in one scatterplot
 - [x] button for saving the table
+- [ ] fix the order of files displayed
+- [ ] add 'object-based' approach
